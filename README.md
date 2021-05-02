@@ -2,6 +2,7 @@
 Battlesip Style Game (Sink a DotCom) written in Java
 
 Originally written/coded by Abdul Samad https://github.com/abdsamadf 
+
 Found at repo https://github.com/abdsamadf/battleship-style-game
 
 Cloned and tested by Ryan Barr, Disha Patel and Bailey Thompson
